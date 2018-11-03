@@ -1,3 +1,3 @@
 # node-fs
 DynamicTsFiles => write ts files from node  
-InFolder => Create dynamic Folder  
+InFolder => write ts files into a folder
